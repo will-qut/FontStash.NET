@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>net5.0</TargetFramework>
+		<TargetFramework>net6.0</TargetFramework>
 		<Authors>Matija Brown</Authors>
 		<Description>The legacy OpenGL utillity for FontStash.NET</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
@@ -23,7 +23,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Silk.NET.OpenGL.Legacy" Version="2.3.0" />
+		<PackageReference Include="Silk.NET.OpenGL.Legacy" Version="2.16.0" />
 	</ItemGroup>
 
 </Project>
